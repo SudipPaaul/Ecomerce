@@ -1,0 +1,49 @@
+.container{
+    margin-bottom: 80px;
+}
+.bg-light{
+    background-color: #fff;
+}
+.container-fluid{
+    background-color: white;
+}
+h1{}
+.extra{
+    float:right; 
+    color: gold;
+    font-weight: bold;
+    font-size: 22px;
+}
+.card{
+    margin: 20px;
+    border-radius: 10px;
+}
+.card-title{
+    text-align: center;
+    font-weight: bold;
+}
+.card-text{
+    text-align: center;
+}
+.buy-now-button{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+     
+}
+.center-text{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: gold;
+    text-decoration-thickness: 5px;
+    
+
+}
+.bag {
+    margin: 20px;
+}
+.twopic{
+    margin: 20px;
+}
+ 
